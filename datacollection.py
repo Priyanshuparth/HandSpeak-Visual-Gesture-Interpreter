@@ -10,7 +10,7 @@ offset = 20
 imgSize = 300
 counter = 0
 
-folder = "Data/Okay"
+folder = r"C:\Users\Priyanshu\Desktop\New folder (2)\Sign-Language-detection\Data\Bye"
 
 while True:
     success, img = cap.read()
