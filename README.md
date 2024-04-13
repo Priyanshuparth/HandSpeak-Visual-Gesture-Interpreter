@@ -1,5 +1,12 @@
 # HandSpeak: Visual Gesture Interpreter
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Priyanshuparth/HandSpeak-Visual-Gesture-Interpreter)
+![GitHub contributors](https://img.shields.io/github/contributors/Priyanshuparth/HandSpeak-Visual-Gesture-Interpreter)
+![GitHub stars](https://img.shields.io/github/stars/Priyanshuparth/HandSpeak-Visual-Gesture-Interpreter?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Priyanshuparth/HandSpeak-Visual-Gesture-Interpreter?style=social)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshuparth) 
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshuparth) 
+
 ## Overview
 This project aims to develop a sign language detection system using computer vision and machine learning techniques. The system is designed to interpret hand gestures captured through a webcam in real-time and classify them into corresponding sign language gestures.
 
