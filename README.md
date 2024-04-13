@@ -12,7 +12,7 @@ This project aims to develop a sign language detection system using computer vis
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Priyanshuparth/HandSpeak-Visual-Gesture-Interpreter
+   git clone git@github.com:Priyanshuparth/HandSpeak-Visual-Gesture-Interpreter.git
    ```
 2. Install the required dependencies:
    ```bash
